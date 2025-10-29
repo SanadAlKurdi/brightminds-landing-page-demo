@@ -99,7 +99,7 @@ img {
 .hero__background {
   width: auto;
   height: 750px;
-  background-image: url(./assets/img/landing_page_hero_image.svg);
+  background-image: url(./assets/img/landing_page_hero_image.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
