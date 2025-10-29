@@ -102,7 +102,7 @@ img {
   background-image: url(./assets/img/landing_page_hero_image.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  object-position: top center;
+  background-position: top center;
 }
 
 .hero__title {
